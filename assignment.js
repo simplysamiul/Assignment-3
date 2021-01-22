@@ -18,7 +18,6 @@ function budgetCalculator(gori, mobile, computer){
     var watch = gori * 50;
     var phone = mobile * 100;
     var laptop = computer * 500;
-
     return watch + phone + laptop;
 }
 
@@ -42,7 +41,6 @@ function hotelCost(day){
         var remaing = day - 20;
         var thirdStepCost = remaining * 50;
         cost = firstStepCost + secondStepCost + thirdStepCost ;
-
     }
     return cost;
 }
