@@ -1,4 +1,7 @@
 
+//      https://github.com/simplysamiul/Assignment-3#assignment-3-1
+
+
 
 
 // Soluation-01
@@ -56,6 +59,3 @@ function megaFriend(arr) {
     }
     return longest;
 }
-
-
-
